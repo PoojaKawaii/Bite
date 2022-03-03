@@ -1,6 +1,6 @@
 body
 {
-  background: url("https://i.ytimg.com/vi/X7GhHlGcGzA/maxresdefault.jpg"); background-attachment: scroll; background-repeat: no-repeat; background-position:top ;
+  background: url("https://mail.google.com/mail/u/0?ui=2&ik=9d3c654796&attid=0.1.1&permmsgid=msg-f:1726286682027030757&th=17f500974eb578e5&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_70n6AUPYrCP9SZaULeu-3UxC-h8k6R0Jm1TDtqUt8mBJ4FfMfY_sO6ANriUu5dBKe4X7YSDZs3QWAJ9ztnE0Wrjywqu1ssyL8bYQRRqgsjGbr5tWwcDmkrBI&disp=emb"); background-attachment: scroll; background-repeat: no-repeat; background-position:top ;
 }
 #banner {
   position: absolute;
@@ -10,4 +10,7 @@ body
   width: 100%;
   height: 200px;
   z-index: -1;
+}
+li{
+  list-style-type: none;
 }
